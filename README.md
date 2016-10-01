@@ -6,6 +6,3 @@ Understanding humor is the first step to being funny. So can machines detect hum
 `data.ipynb` preprocesses the Yelp Dataset Challenge dataset  
 `model.ipynb` builds models using a machine learning pipeline  
 `model_nn.ipynb` implements the neural network model using TensorFlow
-
-## Citation
-https://cs224d.stanford.edu/reports/OliveiraLuke.pdf
