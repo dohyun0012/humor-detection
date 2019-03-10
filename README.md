@@ -1,6 +1,6 @@
 # Humor Detection
 
-Understanding humor is the first step to being funny. So can machines detect humor in text? You can read more about this project on my [blog](http://dohyunshin.com/jekyll/pixyll/2016/09/07/humor-detection/).
+Understanding humor is the first step to being funny. So can machines detect humor in text? You can read more about this project on my [blog](http://www.dohyunshin.com/jekyll/pixyll/2016/09/07/humor-detection.html).
 
 ## Files
 `data.ipynb` preprocesses the Yelp Dataset Challenge dataset  
